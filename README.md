@@ -113,7 +113,7 @@ Each script saves a plot (`ventilator_phaseN.png`) on completion.
 
 ## Documentation
 
-Full documentation covering all theory and code line-by-line, written for readers with no prior experience in differential equations or machine learning: [`ventilator_pinn_docs.pdf`](./ventilator_pinn_docs.pdf)
+Full documentation covering all theory and code line-by-line, written for readers with no prior experience in differential equations or machine learning: [`COMING SOON`]
 
 ---
 
